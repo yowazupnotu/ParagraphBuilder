@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+    color: crimson;
+    border-radius: 10px;
+    border-color: royalblue;
+    border-width: 5px;
+    border-style: double;
+}
+
+input{
+    border-radius: 5px;
+    border-color: lawngreen;
+    border-width: 3px;
+    border-style: solid;
+}
+
+#entire{
+    border-style: double;
+    border-radius: 3px;
+    border-color: palegreen;
+    border-width: 3px;
+    width: 1000px;
+}
+
+button{
+    border-style: double;
+    border-radius: 5px;
+    border-color: royalblue;
+    border-width: 5px;
+    background-color: skyblue;
+}
